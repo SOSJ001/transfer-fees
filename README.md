@@ -11,7 +11,7 @@ This project provides tools for interacting with the Solana blockchain, includin
 ## Installation
 
 1. Clone this repository:
-   git clone [https://github.com/SOSJ001transfer-fees.git](https://github.com/SOSJ001/transfer-fees.git)
+   git clone [https://github.com/SOSJ001/transfer-fees.git](https://github.com/SOSJ001/transfer-fees.git)
 2. Navigate to the project directory
 3. Install dependencies: npm install
    
